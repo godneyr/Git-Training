@@ -1,1 +1,2 @@
-# New read me
+# Git-Training
+ Team-mates
